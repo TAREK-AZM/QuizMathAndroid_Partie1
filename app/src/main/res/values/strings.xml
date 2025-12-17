@@ -1,12 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">MathQuiz</string>
+    <string name="app_name">MyNotes</string>
 
-    <string name="number1">0</string>
-    <string name="number2">0</string>
-    <string name="result_label">Résultat :</string>
+    <!-- Liste des notes -->
+    <string name="mes_notes">Mes Notes</string>
+    <string name="aucune_note">Aucune note.\nAppuyez sur + pour ajouter</string>
+    <string name="ajouter_note">Ajouter une note</string>
 
-    <string name="btn_add">+</string>
-    <string name="btn_sub">-</string>
-    <string name="btn_mul">×</string>
-    <string name="btn_generate">Générer</string>
+    <!-- Formulaire -->
+    <string name="nouvelle_note">Nouvelle Note</string>
+    <string name="nom_note">Nom de la note</string>
+    <string name="description">Description</string>
+    <string name="date">Date</string>
+    <string name="priorite">Priorité</string>
+    <string name="enregistrer">Enregistrer</string>
+    <string name="annuler">Annuler</string>
+
+    <!-- Détails -->
+    <string name="details_note">Détails de la note</string>
+    <string name="retour">Retour</string>
+
+    <!-- Caméra -->
+    <string name="ajouter_photo">Ajouter une Photo</string>
+    <string name="prendre_photo">Prendre une photo</string>
+    <string name="galerie">Galerie</string>
+    <string name="aucune_photo">Aucune photo sélectionnée</string>
+
+    <!-- Messages -->
+    <string name="note_enregistree">Note enregistrée avec succès</string>
+    <string name="photo_enregistree">Photo enregistrée</string>
+    <string name="erreur_enregistrement">Erreur lors de l\'enregistrement</string>
+    <string name="champ_obligatoire">Ce champ est obligatoire</string>
+    <string name="permission_camera">Permission caméra refusée</string>
+
+    <!-- Priorités -->
+    <string name="priorite_haute">Haute</string>
+    <string name="priorite_moyenne">Moyenne</string>
+    <string name="priorite_basse">Basse</string>
 </resources>
